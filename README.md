@@ -32,3 +32,8 @@
 - Store JSON
 - Easy to get started
 - Free Cloud Hosting - Atlas
+
+## PUT vs PATCH
+
+- `PUT` - updates the actual whole data
+- `PATCH` - updates partial data
